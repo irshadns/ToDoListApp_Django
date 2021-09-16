@@ -1,0 +1,8 @@
+{ // my custom settings
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ]
+}
